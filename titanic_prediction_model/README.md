@@ -87,8 +87,6 @@ Follow these steps to build and run the containerized application:
 ```bash
 cd Titanic-Prediction-Model
 ```
-![image](https://github.com/user-attachments/assets/dbd5c6a1-3252-4da0-8161-e7c6a5602d5a)
-![image](https://github.com/user-attachments/assets/8edd94fc-1fb7-45e7-9d8d-53cdd73c59b2)
 
 
 ### **2️ Build the Docker Image**
@@ -108,7 +106,7 @@ docker run -p 8502:8501 titanic-prediction
 ### **4️ Access the Application**
 Open your browser and navigate to:
 ```
-http://localhost:8501
+http://localhost:8502
 ```
 <img width="668" alt="titanic prediction" src="https://github.com/user-attachments/assets/3b69c435-6eba-4002-9a05-263df32ed615" />
 
