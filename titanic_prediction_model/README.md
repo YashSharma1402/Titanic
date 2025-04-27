@@ -95,11 +95,15 @@ cd Titanic-Prediction-Model
 ```bash
 docker build -t titanic-prediction .
 ```
+<img width="1008" alt="image" src="https://github.com/user-attachments/assets/f9d68c7f-d0c4-4583-88ba-88be18381cad" />
+
 
 ### **3️ Run the Docker Container**
 ```bash
-docker run -p 8501:8501 titanic-prediction
+docker run -p 8502:8501 titanic-prediction
 ```
+<img width="1015" alt="image" src="https://github.com/user-attachments/assets/ab885477-2735-44e2-8b9a-0f8020ea6d92" />
+
 
 ### **4️ Access the Application**
 Open your browser and navigate to:
