@@ -1,7 +1,9 @@
 #  **Titanic Survival Predictor:- Containerized Streamlit App**
 Access the app at-
 https://titanic-syaioyizxdgkabgpyv9uua.streamlit.app/
-![Uploading image.png…]()
+
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/8ad0509f-fb8e-4fc9-9114-3bbe43b948fd" />
+
 
 
 ##  **Overview**
